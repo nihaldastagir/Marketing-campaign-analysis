@@ -57,4 +57,4 @@ A retail company has run multiple marketing campaigns but lacks a consolidated v
 * Add predictive modeling to forecast campaign acceptance probabilities.
 
 ---
-*Created by [Your Name]*
+*Created by Nihal Dastagir*
